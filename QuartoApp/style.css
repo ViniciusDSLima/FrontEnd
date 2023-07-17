@@ -1,0 +1,18 @@
+:root{
+    background: wheat;
+}
+
+
+.conteudo{
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.conteudo1{
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}

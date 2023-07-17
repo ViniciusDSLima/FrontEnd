@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.entrada{
+    background-color: #f7b600;
+}
+.cabecalho{
+    padding: 2% 0 0 0;
+    color: aliceblue;
+    text-align: center;
+    font-size: 55px;
+}
+
+.cabecalho_menu{
+    text-align: center;
+    padding: 2%;
+    font-size: 20px;
+}
+
+.cabecalho_menu_link{
+    font: 1.5em;
+    text-decoration: none;
+    color: white;
+}
+
+.cabecalho_menu_link:hover{
+    background-color: white;
+    color: #f7b600;
+}
+
+.cabecalho_titulo_destaque{
+    font: bold;
+    color: #4e4e4e;
+}
+
+.area_principal{
+    width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.area_postagens{
+    width: 660px;
+    float: left;
+}
+
+.postagens{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+    
+}
+.postagem{
+    padding: 20px;
+}
+
+.conteudo_lateral{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.data_postagem{
+    display:block;
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4ff;
+    font: bold;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.area_lateral{
+    width: 240px;
+    float: right;
+}
+
+.rodape{
+    padding: 24px;
+    text-align: center;
+    background-color: green;    
+    clear: both;
+}
+
+.link_leia_mais{
+    padding-top: 15px;
+    text-decoration: none;
+}
+
+.link_leia_mais:hover{
+    text-decoration: underline;
+}
+
+.link_postagem_lateral{
+    text-decoration: none;
+}
+
+.link_postagem_lateral:hover{
+    text-decoration: underlines;
+}
+
+.texto_titulo_lateral{ 
+    padding: 15px;
+    color: #565656;
+    background: #ccc
+ }
+
+ .postagem_lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
+ }
